@@ -8,7 +8,7 @@ intents.members = True
 client = discord.Client(intents=intents)
 
 # Replace 'YOUR_DISCORD_TOKEN' with your bot token
-TOKEN = 'MTI1NDQzMDAzODE5NjA5MzA0MA.G3ns32.K4MUF0FMqQGNK726W9p6bg20zbP47tHkXbuihs'
+TOKEN = 'MTI1NDQzMDAzODE5NjA5MzA0MA.Gd95yB.8qW2t86sm4csXUq3JLecPdS3ZaALqCif-d_kdc'
 
 # Replace 'YOUR_CHANNEL_ID' with the ID of the channel where you want to send the DMs
 CHANNEL_ID = 1256888426750283877
